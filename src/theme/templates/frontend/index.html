@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+{% load static %}
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="shortcut icon" type="image/png" href="{% static 'frontend/favicon.png' %}"/>
+  <link rel="stylesheet" href="{% static 'frontend/global.css' %}">
+  <link rel="stylesheet" href="{% static 'frontend/bootstrap-4.0.0-dist/css/bootstrap.min.css' %}">
+  {% comment %} <script src="{% static 'frontend/bootstrap-4.0.0-dist/js/bootstrap.min.js' %}"></script> {% endcomment %}
+  <title>Metalzbyt Panel</title>
+</head>
+<body>
+<div id="app">
+    <!-- React will load here -->
+</div>
+</body>
+<script src="{% static "frontend/main.js" %}"></script>
+</html>

@@ -1,0 +1,50 @@
+// {
+//     "compilerOptions": {
+//         "outDir": "./dist/",
+//         "sourceMap": true,
+//         "noImplicitAny": true,
+//         "module": "es6",
+//         "target": "es5",
+//         "jsx": "react",
+//         "moduleResolution": "node",
+//         "allowJs": true,
+//     }
+// }
+
+{
+    "compilerOptions": {
+        "outDir": "./dist/",
+        "sourceMap": true,
+        "noImplicitAny": true,
+        "module": "esnext",
+        "target": "es5",
+        "jsx": "react",
+        "moduleResolution": "node",
+        "allowJs": true,
+    }
+}
+
+// {
+//     "compileOnSave": false,
+//     "compilerOptions": {
+//       "baseUrl": "./",
+//       "outDir": "./dist/",
+//       "sourceMap": true,
+//       "declaration": false,
+//       "module": "esnext", // add this line
+//       "jsx": "react",
+//       "moduleResolution": "node",
+//       "emitDecoratorMetadata": true,
+//       "experimentalDecorators": true,
+//       "importHelpers": true,
+//       "target": "es2015",
+//       "typeRoots": [
+//         "node_modules/@types"
+//       ],
+//       "lib": [
+//         "es2018",
+//         "dom"
+//       ]
+//     }
+//   }
+  

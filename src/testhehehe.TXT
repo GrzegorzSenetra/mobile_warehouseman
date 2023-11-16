@@ -1,0 +1,19 @@
+// Etykieta dla programu "SMALL BUSINESS 5.1" 
+// 
+// PROSZĘ NIE EDYTOWAĆ TEGO PLIKU SAMODZIELNIE, 
+// GDYŻ MOŻNA GO USZKODZIĆ! 
+// 
+        
+NAME "testhehehe"
+SIZE 50,40
+
+FONT "Arial", 2.8, NORMAL, 100%
+CMTEXT 25, 6, 0, 48, 6, "%OPIS_TOWARU%"
+CMBAR 25, 12, 0.01, 15, 0, "%KOD%"
+CMBARINDEX 12, 25, 0.01, 5, 0, "%KODINDEX%"
+FONT 2.8
+CMTEXT 24, 18, 0, 48, 3, "%NAZWA%"
+FONT 5
+CMTEXT 25.00, 32, 0, 48, 1, "%CENA1B% zł"
+FONT 2.8
+CMTEXT 40, 37.5, 0, 48, 1, "%JEDN%"

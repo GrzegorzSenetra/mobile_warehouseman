@@ -1,0 +1,14 @@
+// Etykieta dla programu "SMALL BUSINESS 5.1" 
+// 
+// PROSZĘ NIE EDYTOWAĆ TEGO PLIKU SAMODZIELNIE, 
+// GDYŻ MOŻNA GO USZKODZIĆ! 
+// 
+        
+NAME "Metalzbyt - 50x40 - cenówka dla arka"
+SIZE 50,40
+
+FONT "Arial", 2.8, NORMAL, 100%
+CMTEXT 25, 6, 0, 48, 6, "%OPIS_TOWARU%"
+CMBAR 24, 15.5, 4, 0.25, 0, "%KOD%"
+FONT 11
+CMTEXT 25.00, 32, 0, 48, 1, "%CENA1B% zł"
