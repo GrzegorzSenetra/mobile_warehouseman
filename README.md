@@ -38,36 +38,20 @@ Main functionalities of the application:
 
 - Searching for products using a barcode scanner with a camera or laser (data collector), which allows for displaying detailed information about the product such as purchase price, link with graphics to the store, selling price, description, margin, etc.
 
-[![Watch the video](https://youtu.be/T-D1KVIuvjA](https://i.ytimg.com/vi/wQcM_Hz6SgY/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBygKAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLBzMai6sQ67sogZOrP711-byFn45A)](https://www.youtube.com/embed/wQcM_Hz6SgY?si=UOc_c8-O08BbYq42)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wQcM_Hz6SgY?si=UOc_c8-O08BbYq42" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 <br>
 <br>
 
 - Creating documents in the application or CSV files based on scanned codes or searched products, which can be imported into external ERP systems.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mXQ2n1XhaLo?si=JYbWhls6pAYDpdhh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HLaCyxISRn0?si=bHSkqL0OkiiSukNG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
 <br>
 
 - Verification of documents from external systems, which allows the application to download a list of document items (e.g., from an ERP system) or orders (e.g., from a store based on the Prestashop system) for physical verification of goods.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PkBm535tr-U?si=sGJ-KYEr1QmJYTiR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jlDnIO8ILb8?si=rvxWpB9AxWSyjtdz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 <br>
 <br>
 
 - Generating self-adhesive labels with barcodes directly from a previously created product list or a currently searched or scanned product, and printing them on printers supporting the ZPL2 language.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OksZrUn3In0?si=VfSPBlSNngld8uP-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PI0pK6SRQ7I?si=gb3KtIqO1cLi6eFg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
 <br>
