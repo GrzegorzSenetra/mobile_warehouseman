@@ -38,23 +38,11 @@ Main functionalities of the application:
 
 - Searching for products using a barcode scanner with a camera or laser (data collector), which allows for displaying detailed information about the product such as purchase price, link with graphics to the store, selling price, description, margin, etc.
 
-<br>
-<br>
-
 - Creating documents in the application or CSV files based on scanned codes or searched products, which can be imported into external ERP systems.
-
-<br>
-<br>
 
 - Verification of documents from external systems, which allows the application to download a list of document items (e.g., from an ERP system) or orders (e.g., from a store based on the Prestashop system) for physical verification of goods.
 
-<br>
-<br>
-
 - Generating self-adhesive labels with barcodes directly from a previously created product list or a currently searched or scanned product, and printing them on printers supporting the ZPL2 language.
-
-<br>
-<br>
 
 - Preparing inventory documents (CSV)
 
