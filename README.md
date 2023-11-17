@@ -38,7 +38,6 @@ Main functionalities of the application:
 
 - Searching for products using a barcode scanner with a camera or laser (data collector), which allows for displaying detailed information about the product such as purchase price, link with graphics to the store, selling price, description, margin, etc.
 
-<video src='https://www.youtube.com/embed/wQcM_Hz6SgY?si=UOc_c8-O08BbYq42' width=180/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wQcM_Hz6SgY?si=UOc_c8-O08BbYq42" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
